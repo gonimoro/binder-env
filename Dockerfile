@@ -1,4 +1,4 @@
-FROM quay.io/repository/datascience-notebook:f2027904a7c5
+FROM quay.io/jupyter/datascience-notebook:f2027904a7c5
 
 COPY environment.yml /tmp/environment.yml
 
