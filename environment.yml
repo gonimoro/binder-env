@@ -281,4 +281,3 @@ dependencies:
 - zeromq=4.3.5
 - zlib=1.3.2
 - zstd=1.5.7
-prefix: /tmp/conda-switcher/environments/analysis-env
